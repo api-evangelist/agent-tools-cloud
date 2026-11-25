@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agent Tools Cloud Domain Security](https://apis.io/security/agent-tools-cloud/agent-tools-cloud-domain-security/)
+- [Agent Tools Domain Security](https://apis.io/security/agent-tools-cloud/agent-tools-cloud-domain-security/)
 
 ## Where to find this API
 
@@ -97,18 +97,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 17.0** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 16.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 62.5 |
+| Discoverability | 69.6 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
+| Contract governance | 4.5 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 7.1 |
-| Access clarity | 34.2 |
+| Access clarity | 40.4 |
 
-**Agent readiness 8.9** — agent-aware
+**Agent readiness 8.7** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -133,8 +133,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agent-tools-cloud/](https://apis.io/providers/agent-tools-cloud/).
 
